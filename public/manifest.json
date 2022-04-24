@@ -1,0 +1,8 @@
+{
+  "short_name": "Ceylon Maritime",
+  "name": "Ceylon Maritime",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
